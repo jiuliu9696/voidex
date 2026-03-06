@@ -1,0 +1,22 @@
+{
+  "name": "chromax-puppeteer-example",
+  "version": "1.0.0",
+  "description": "Puppeteer automation example using Chromax browser with native fingerprint protection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "chromax",
+    "puppeteer",
+    "fingerprint",
+    "automation",
+    "anti-detect"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^21.0.0"
+  }
+}
