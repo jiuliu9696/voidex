@@ -284,6 +284,7 @@ See [examples/](./examples/) for integration code.
 - **No Sync** - Chrome Sync disabled
 - **No Auto-Update** - Auto-update disabled
 - **Privacy-First** - Built with privacy in mind
+- **Proprietary** - Advanced native protection technology
 
 ---
 
@@ -298,9 +299,59 @@ Contributions are welcome! Please feel free to:
 
 ---
 
+## 💖 Support the Project
+
+Chromax and Voidex are actively developed and maintained. If you find this project valuable, please consider supporting its continued development.
+
+### Why Support Matters
+
+This project requires significant time and resources to:
+- Maintain compatibility with the latest Chromium versions
+- Develop new fingerprint protection features
+- Provide support and documentation
+- Test across different platforms and use cases
+
+Currently, development is done part-time due to personal financial constraints. Your support would enable full-time dedicated development and faster feature releases.
+
+### How to Support
+
+**🏢 Business/Enterprise Support**
+If you're using Chromax/Voidex in a commercial environment and would like:
+- Priority support and faster response times
+- Custom feature development
+- Consulting and integration services
+- Enterprise licensing options
+- Service Level Agreement (SLA)
+
+Please contact: [ihor.z.1987@gmail.com](mailto:ihor.z.1987@gmail.com)
+
+**💼 Investment Opportunities**
+Looking for investors to help scale development and bring this project to full-time focus. If you're interested in supporting the long-term growth of Chromax/Voidex, please reach out to discuss partnership opportunities.
+
+**⭐ Other Ways to Help**
+- Star the repository on GitHub
+- Share the project with others who might benefit
+- Provide feedback and feature suggestions
+- Report bugs and issues
+
+### Sponsorship Tiers
+
+| Tier | Monthly | Benefits |
+|------|---------|----------|
+| 🥉 **Supporter** | $10 | Priority email support, Name in supporters list |
+| 🥈 **Contributor** | $50 | Above + Priority issue responses, Feature voting |
+| 🥇 **Sponsor** | $200 | Above + Monthly video call, Priority feature requests |
+| 💎 **Enterprise** | $1,000+ | Above + Custom development, SLA support, Direct line |
+
+Your support directly impacts the development speed and quality of Chromax and Voidex. Thank you for considering! 🙏
+
+---
+
 ## 📄 License
 
-MIT License - Free to use for any purpose.
+Proprietary License - Free for personal use. Commercial use requires a license.
+
+For licensing inquiries, please contact: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
