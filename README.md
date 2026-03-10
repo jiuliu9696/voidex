@@ -49,6 +49,12 @@ Chromax is a modified Chromium browser with fingerprint protection built directl
 
 Voidex is an Electron-based desktop application that makes it easy to manage multiple browser profiles with different fingerprints. No coding required.
 
+![Voidex Profile Manager](./assets/voidex-screenshot-1.png)
+*Voidex profile manager - Create and manage multiple browser profiles*
+
+![Voidex Profile Editor](./assets/voidex-screenshot-2.png)
+*Profile editor - Configure fingerprint settings with an intuitive GUI*
+
 - ✅ **Easy Profile Management** - Create, edit, delete profiles
 - ✅ **Visual Configuration** - GUI for all fingerprint settings
 - ✅ **Proxy Support** - Built-in proxy bridge for SOCKS5/HTTP
